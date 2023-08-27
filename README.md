@@ -13,6 +13,7 @@ HTML, CSS ve JavaScript temelli basit bir Quiz App projesi.
 Sorularınız için bana [durmusozgul66l@gmail.com](mailto:durmusozgul66l@gmail.com) adresinden ulaşabilirsiniz.
 
 <h2>Ekran Görüntüsü</h2>
+
 ![](giff.gif)
 
 
